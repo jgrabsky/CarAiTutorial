@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Third-Party libraries
+Content/__ExternalActors__/*
+Content/__ExternalObjects__/*
+Content/LevelPrototyping/*
+Content/Track/*
+Content/Vehicles/*
+Content/VehicleTemplate/*
